@@ -1,0 +1,4 @@
+elasticsearch<3.0.0
+elasticsearch-dsl>=2.0.0,<3.0.0
+falcon
+gunicorn
